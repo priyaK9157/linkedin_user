@@ -44,7 +44,7 @@ const FollowersBox = () => {
 
   return (
     <div className="flex items-center justify-center h-screen bg-gray-200">
-      <div className="w-64 p-6 bg-blue-500 text-white text-center rounded-lg">
+      <div className="w-64 p-6 bg-blue-500  text-center rounded-lg">
        
         <input
           type="text"
