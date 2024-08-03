@@ -14,7 +14,7 @@ const FollowersBox = () => {
       return;
     }
   
-    const apiKey = 'df16a8cbdfmsh1792088bb0ab5c0p1f690ajsndfa1d85ddd7f'; // Replace with your RapidAPI key
+    const apiKey = 'df16a8cbdfmsh1792088bb0ab5c0p1f690ajsndfa1d85ddd7f'; 
     const url = 'https://linkedin-bulk-data-scraper.p.rapidapi.com/person';
 
     try {
